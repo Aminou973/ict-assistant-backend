@@ -1,0 +1,1 @@
+# DailyGoal / WeeklyGoal models

@@ -1,0 +1,1 @@
+# Route pour log un trade
